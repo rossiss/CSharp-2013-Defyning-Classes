@@ -1,0 +1,8 @@
+C:\Users\makak\Desktop\DefiningClassesPart1\GSMTest-Project\bin\Debug\GSMTest-Project.exe.config
+C:\Users\makak\Desktop\DefiningClassesPart1\GSMTest-Project\bin\Debug\GSMTest-Project.exe
+C:\Users\makak\Desktop\DefiningClassesPart1\GSMTest-Project\bin\Debug\GSMTest-Project.pdb
+C:\Users\makak\Desktop\DefiningClassesPart1\GSMTest-Project\obj\Debug\GSMTest-Project.csprojResolveAssemblyReference.cache
+C:\Users\makak\Desktop\DefiningClassesPart1\GSMTest-Project\obj\Debug\GSMTest-Project.exe
+C:\Users\makak\Desktop\DefiningClassesPart1\GSMTest-Project\obj\Debug\GSMTest-Project.pdb
+C:\Users\makak\Desktop\DefiningClassesPart1\GSMTest-Project\bin\Debug\DefiningClassesPart1-CL.dll
+C:\Users\makak\Desktop\DefiningClassesPart1\GSMTest-Project\bin\Debug\DefiningClassesPart1-CL.pdb

@@ -1,0 +1,4 @@
+C:\Users\makak\Desktop\DefiningClassesPart1\DefiningClassesPart1-CL\bin\Debug\DefiningClassesPart1-CL.dll
+C:\Users\makak\Desktop\DefiningClassesPart1\DefiningClassesPart1-CL\bin\Debug\DefiningClassesPart1-CL.pdb
+C:\Users\makak\Desktop\DefiningClassesPart1\DefiningClassesPart1-CL\obj\Debug\DefiningClassesPart1-CL.dll
+C:\Users\makak\Desktop\DefiningClassesPart1\DefiningClassesPart1-CL\obj\Debug\DefiningClassesPart1-CL.pdb
